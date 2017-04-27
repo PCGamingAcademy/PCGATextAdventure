@@ -1,0 +1,26 @@
+bin/
+obj/
+packages/
+ReportExports/
+
+*.suo
+*.user
+
+_ReSharper*
+
+# Built Deployment Files #
+##########################
+src/Installer/*.exe
+src/Installer/adminweb/
+src/Installer/mbt/
+src/Installer/MessageStore/
+src/Installer/Output/
+
+# NCrunch Tempory File
+src/ICA Direct.ncrunchsolution
+src/TestResults/
+*.pubxml
+
+/src/code/KAndMTavern.WebUI/App_Data
+
+TestResult.xml

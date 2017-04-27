@@ -1,0 +1,36 @@
+.gitattributes text
+*.cs text diff=csharp
+*.vb text
+*.c text
+*.cpp text
+*.cxx text
+*.h text
+*.hxx text
+*.py text
+*.rb text
+*.java text
+*.html text
+*.htm text
+*.css text
+*.scss text
+*.sass text
+*.less text
+*.js text
+*.lisp text
+*.clj text
+*.sql text
+*.php text
+*.lua text
+*.m text
+*.asm text
+*.erl text
+*.fs text
+*.fsx text
+*.hs text
+*.feature text
+ 
+*.csproj text
+*.vbproj text
+*.fsproj text
+*.dbproj text
+*.sln text
